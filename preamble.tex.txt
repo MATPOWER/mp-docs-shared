@@ -3,12 +3,15 @@
 % \setlength{\cftchapnumwidth}{0.75cm}
 % \setlength{\cftsecindent}{\cftchapnumwidth}
 % \setlength{\cftsecnumwidth}{1.25cm}
-\usepackage{bm}     %% bold math, for bold italics uppercase Greek characters
-\usepackage{upgreek}
-\usepackage{amsfonts}
-\usepackage{amstext}
-\usepackage{soul}
-\usepackage{relsize}
+
+% moved to conf.py, latex_elements = {'extrapackages' ...}
+% \usepackage{bm}     %% bold math, for bold italics uppercase Greek characters
+% \usepackage{upgreek}
+% \usepackage{amsfonts}
+% \usepackage{amstext}
+% \usepackage{soul}
+% \usepackage{relsize}
+
 \newcommand{\matpower}[0]{{M{\smaller{ATPOWER}}}}
 \newcommand{\matpoweri}[0]{{\emph{M{\smaller{ATPOWER}}}}}
 \newcommand{\matpowerb}[0]{{\textbf{M{\smaller{ATPOWER}}}}}
