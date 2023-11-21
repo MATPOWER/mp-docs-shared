@@ -22,7 +22,7 @@
 .. |MUM| replace:: :raw-html:`<a href="https://matpower.org/docs/MATPOWER-manual-8.0b1.pdf">M<span style="font-size:smaller">ATPOWER</span> User's Manual</a>`:raw-latex:`\mum{}`
 
 .. |MATLAB| replace:: :raw-html:`M<span style="font-size:smaller">ATLAB</span>`:raw-latex:`\matlab{}`
-.. |MATLAB(R)| replace:: :raw-html:`M<span style="font-size:smaller">ATLAB&reg;</span>`:raw-latex:`\matlabr{}`
+.. |MATLAB(R)| replace:: :raw-html:`M<span style="font-size:smaller">ATLAB<sup>&reg;</sup></span>`:raw-latex:`\matlabr{}`
 
 .. |PSerc| replace:: :raw-html:`PS<span style="font-size:smaller">ERC</span>`:raw-latex:`\pserc{}`
 .. |PSERC| replace:: :raw-html:`Power Systems Engineering Research Center (PS<span style="font-size:smaller">ERC</span>)`:raw-latex:`\PSERC{}`
