@@ -80,6 +80,16 @@ div.math {
     background-color: #e9f4f0;
     /*background-color: #faf1d9;*/    /* yellow */
 }
+/* important title */
+.rst-content .important .admonition-title {
+    /*background: #568085;*/
+    background: #e5ba40;        /* yellow */
+}
+/* important body */
+.rst-content .important {
+    /*background-color: #e9f4f0;*/
+    background-color: #faf1d9;    /* yellow */
+}
 /* class */
 html.writer-html4 .rst-content dl:not(.docutils)>dt, html.writer-html5 .rst-content dl[class]:not(.option-list):not(.field-list):not(.footnote):not(.glossary):not(.simple)>dt {
     /* teal */
